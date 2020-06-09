@@ -13,6 +13,8 @@ What things you need to install the software and how to install them
 1. sklearn
 2. matplotlib
 3. numpy
+4. pandas
+5. seaborn
 ```
 
 ### Installing
@@ -23,7 +25,8 @@ Sales Forecasting Random Forest Regression .ipynb : For prediction file
 This code originally I run on the google colab because my computer is not good enough to run the code, if you want to run on you computer you can remove the google colab command in the 2nd line.
 
 ## Result
-
+Prediction result
+![Screenshot](walmart.png)
 
 ## Authors
 

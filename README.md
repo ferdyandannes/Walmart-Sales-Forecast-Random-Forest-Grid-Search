@@ -25,7 +25,7 @@ Sales Forecasting Random Forest Regression .ipynb : For prediction file
 This code originally I run on the google colab because my computer is not good enough to run the code, if you want to run on you computer you can remove the google colab command in the 2nd line.
 
 ## Result
-Prediction result
+Prediction result, 81% accuracy
 ![Screenshot](walmart.png)
 
 ## Authors
